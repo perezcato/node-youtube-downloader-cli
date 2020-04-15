@@ -9,6 +9,7 @@
   "author": "Cato Perez",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.0.0",
     "fs-extra": "^9.0.0",
     "inquirer": "^7.1.0",
     "ora": "^4.0.3",
