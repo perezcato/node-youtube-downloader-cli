@@ -15,5 +15,8 @@
     "ora": "^4.0.3",
     "yargs-interactive": "^3.0.0",
     "youtube-dl": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0"
   }
 }
