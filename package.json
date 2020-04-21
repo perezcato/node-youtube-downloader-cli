@@ -4,7 +4,7 @@
   "description": "A simple command line tool to help you download youtube videos ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Cato Perez",
   "license": "ISC",
